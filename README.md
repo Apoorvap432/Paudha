@@ -1,2 +1,0 @@
-# Paudha
-Mini Plant Store
